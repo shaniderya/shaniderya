@@ -1,16 +1,35 @@
-## Hi there 👋
+ Hi, I'm Derya 👋
+Cybersecurity graduate focused on SOC operations, threat detection, and network security.
 
-<!--
-**shaniderya/shaniderya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- SIEM Monitoring
+- Threat Detection
+- Incident Response
+- Log Analysis
+- Network Traffic Analysis
+- Linux
+- Windows Event Logs
 
-Here are some ideas to get you started:
+## Tools
+- Splunk
+- ELK Stack
+- Wireshark
+- Sysmon
+- Snort
+- Suricata
+- Kali Linux
+- Volatility
+- Scapy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- SOC Labs
+- Wireshark Traffic Analysis
+- Detection Rules
+- Linux Security Scripts
+- YARA Rules
+
+## Currently Learning
+- Threat Hunting
+- Advanced SOC Analysis
+- Python for Cybersecurity
+- Malware Analysis
